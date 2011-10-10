@@ -9,7 +9,7 @@ Posters
 
 Amsterdam
 ***************
-.. image:: https://github.com/dokterbob/occupy-together-posters/blob/master/Amsterdam/a4poster%20-%20v1%2-%2small.jpg?raw=true
+.. image:: https://github.com/dokterbob/occupy-together-posters/raw/master/Amsterdam/a4poster%20-%20v1%20-%20small.jpg
    :target: https://github.com/dokterbob/occupy-together-posters/tree/master/Amsterdam
 
 Fonts
