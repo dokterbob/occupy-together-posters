@@ -12,6 +12,13 @@ Amsterdam
 .. image:: https://github.com/dokterbob/occupy-together-posters/raw/master/Amsterdam/a4poster%20-%20v1%20-%20small.jpg
    :target: https://github.com/dokterbob/occupy-together-posters/tree/master/Amsterdam
 
+.. image:: https://github.com/dokterbob/occupy-together-posters/raw/master/Amsterdam/occupyamsterdam_SQUARE.jpg
+   :target: https://github.com/dokterbob/occupy-together-posters/tree/master/Amsterdam
+
+.. image:: https://github.com/dokterbob/occupy-together-posters/raw/master/Amsterdam/occupyamsterdam_small.jpg
+   :target: https://github.com/dokterbob/occupy-together-posters/tree/master/Amsterdam
+
+
 Den Haag
 ********
 .. image:: https://github.com/dokterbob/occupy-together-posters/raw/master/Den%20Haag/a4poster%20-%20v1%20-%20small.jpg
